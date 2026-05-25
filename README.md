@@ -1,14 +1,8 @@
 <div align="center">
 
-# Hi, I'm Khair Eddine Ladhari 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khair%20Eddine%20Ladhari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Learner%20%7C%20MERN%20%26%20Python%20%7C%20Building%20Real%20Projects&descAlignY=58&descSize=16)
 
-</div>
-
----
-
-<div align="center">
-
-### 💻 Full-Stack Dev · 🐍 Python · ⚛️ MERN Stack · 🤖 AI Learner
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;MERN+Stack+%7C+Python+%7C+AI+Learner+%F0%9F%A4%96;Building+Real+Projects+%F0%9F%9A%80)](https://github.com/khair-eddine-ladhari)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=khair-eddine-ladhari&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/khair-eddine-ladhari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khair-eddine-ladhari)
@@ -249,10 +243,10 @@ class KhairEddineLadhari:
 
 <div align="center">
 
-
-
 *"Learning by building — turning ideas into real-world projects."*
 
 **— Khair Eddine Ladhari**
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
