@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khair%20Eddine%20Ladhari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Learner%20%7C%20MERN%20%26%20Python%20%7C%20Building%20Real%20Projects&descAlignY=58&descSize=16&descColor=a78bfa" />
+# Hi, I'm Khair Eddine Ladhari 👋
 
 </div>
 
@@ -249,9 +249,9 @@ class KhairEddineLadhari:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
-*"Building real-world software at the intersection of AI and full-stack."*
+
+*"Learning by building — turning ideas into real-world projects."*
 
 **— Khair Eddine Ladhari**
 
