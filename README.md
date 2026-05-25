@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khair%20Eddine%20Ladhari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Intelligent%20Systems%20Builder&descAlignY=58&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khair%20Eddine%20Ladhari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Learner%20%7C%20MERN%20%26%20Python%20%7C%20Building%20Real%20Projects&descAlignY=58&descSize=16&descColor=a78bfa" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🧠 AI & Full-Stack · 🐍 Python · ⚛️ MERN Stack · 🤖 Intelligent Systems
+### 💻 Full-Stack Dev · 🐍 Python · ⚛️ MERN Stack · 🤖 AI Learner
 
 [![Profile Views](https://komarev.com/ghpvc/?username=khair-eddine-ladhari&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)](https://github.com/khair-eddine-ladhari)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khair-eddine-ladhari)
@@ -24,26 +24,26 @@
 class KhairEddineLadhari:
     def __init__(self):
         self.name         = "Khair Eddine Ladhari"
-        self.role         = "AI Engineer & Full-Stack Developer"
+        self.role         = "Full-Stack Developer & Software Engineering Student"
         self.location     = "Tunisia 🇹🇳"
-        self.education    = "Computer Science — ISET Rades"
+        self.education    = "Software Engineering Student"
 
     @property
     def focus_areas(self):
         return [
-            "🤖  AI-Powered Applications & Intelligent Systems",
-            "🏥  Medical AI — NLP, clinical data structuring",
-            "🔐  Full-Stack Auth Platforms (MERN + RBAC)",
-            "🧬  LLM Integration & Groq API",
+            "⚛️  Full-Stack Development — MERN Stack",
+            "🤖  AI & Machine Learning — Python, Groq, OpenAI",
+            "🔐  Auth Systems — JWT, RBAC, Secure APIs",
+            "🏥  Medical AI — NLP & Clinical Data Structuring",
             "🌐  RESTful APIs & Backend Architecture",
         ]
 
     @property
     def current_mission(self):
-        return "Building real-world software at the intersection of AI and full-stack."
+        return "Learning by building — turning ideas into real-world projects."
 
     def fun_fact(self):
-        return "When not shipping code, I'm exploring how AI can reshape healthcare 🏥"
+        return "Still a student, already shipping production-ready apps 🚀"
 ```
 
 ---
