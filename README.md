@@ -2,13 +2,15 @@
 
 # Khair Eddine Ladhari
 
-**`AI Developer · Full-Stack Builder · Tunisia`**
+**`AI Developer · Full-Stack Builder · Tunisia 🇹🇳`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaireddine-ladhari-77505b302)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khairdinldh@gmail.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/khair-eddine-ladhari)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://github.com/khair-eddine-ladhari)
 [![MERN](https://img.shields.io/badge/MERN_Stack-00D8FF?style=flat&logo=react&logoColor=black)](https://github.com/khair-eddine-ladhari)
+
+![](https://komarev.com/ghpvc/?username=khair-eddine-ladhari&style=flat&color=0969da&label=PROFILE+VIEWS)
 
 </div>
 
@@ -34,44 +36,6 @@ class KhairEddineLadhari:
             "🎨 UX Design",
         ]
 ```
-
----
-
-## 🚀 Projects
-
-### 🏥 MediScan AI — Intelligent Medical Assistant
-> AI doctor that conducts full symptom consultations, fetches real disease data from Wikipedia, and generates professional PDF medical reports.
-
-- **Stack:** Python · Groq LLaMA3 · OpenAI Moderation API · Wikipedia REST API · FPDF · Pandas · tiktoken · Tenacity
-- **AI:** Function calling to trigger `get_disease_info()` · Smart follow-up question loop · Content moderation · Token management · Retry logic
-- 📂 [View Repository](https://github.com/khair-eddine-ladhari/medical-assisstant)
-
----
-
-### 🚗 UberMind — Product Feedback Intelligence
-> RAG chatbot over 5,317 real Uber reviews. Uses semantic search and metadata filtering to answer questions no general-purpose LLM can.
-
-- **Stack:** Python · ChromaDB · HuggingFace `all-MiniLM-L6-v2` Embeddings · Groq `llama-3.3-70b` · Streamlit · Pandas · tiktoken
-- **AI:** Persistent vector store · Semantic similarity search · Smart metadata filtering by score · Conversation memory · Auto-generated admin insight dashboard
-- 🌐 [Live Demo](https://khaireddineladhari-product-feedback-intelligence.hf.space) · 📂 [Repository](https://github.com/khair-eddine-ladhari/product-feedback-intelligence)
-
----
-
-### 🔐 Authy — Full-Stack Auth System
-> Production-ready MERN authentication platform with JWT, role-based access control, and a full admin dashboard.
-
-- **Stack:** React 18 · Node.js · Express · MongoDB · JWT · Passport.js · Tailwind CSS · Vite
-- **Security:** bcrypt · Helmet · express-rate-limit · NoSQL injection sanitizer · CORS
-- 📂 [View Repository](https://github.com/khair-eddine-ladhari/authy)
-
----
-
-### 🧬 Medical Text Structuring — AI NLP Pipeline
-> Extracts structured fields from raw clinical transcriptions using GPT-4o-mini function calling and maps treatments to ICD-10 codes.
-
-- **Stack:** Python · OpenAI GPT-4o-mini · Pandas · python-dotenv
-- **AI:** Structured output via function calling · ICD-10 keyword mapping · CSV export pipeline
-- 📂 [View Repository](https://github.com/khair-eddine-ladhari/AI-Medical-Text-Structuring)
 
 ---
 
