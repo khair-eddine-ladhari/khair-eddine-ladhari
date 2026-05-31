@@ -130,9 +130,11 @@ class KhairEddineLadhari:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khair-eddine-ladhari&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img src="https://streak-stats.demolab.com?user=khair-eddine-ladhari&theme=github-dark&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khair-eddine-ladhari&layout=compact&theme=github_dark&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khair-eddine-ladhari&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
