@@ -2,13 +2,13 @@
 
 # Khair Eddine Ladhari
 
-**`CS Student · AI Builder · Full-Stack Developer`**
+**`AI Developer · Full-Stack Engineer · Tunisia`**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaireddine-ladhari-77505b302)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khairdinldh@gmail.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/khair-eddine-ladhari)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://github.com/khair-eddine-ladhari)
 [![MERN](https://img.shields.io/badge/MERN_Stack-00D8FF?style=flat&logo=react&logoColor=black)](https://github.com/khair-eddine-ladhari)
-[![Groq](https://img.shields.io/badge/Groq_LLaMA3-F54703?style=flat&logo=meta&logoColor=white)](https://github.com/khair-eddine-ladhari)
-[![Tunisia](https://img.shields.io/badge/Tunisia-E70013?style=flat&logo=googlemaps&logoColor=white)](https://github.com/khair-eddine-ladhari)
 
 </div>
 
@@ -20,22 +20,19 @@
 class KhairEddineLadhari:
     def __init__(self):
         self.name      = "Khair Eddine Ladhari"
-        self.role      = "CS Student & Builder"
-        self.year      = "2nd Year Computer Science"
         self.location  = "Tunisia 🇹🇳"
+        self.email     = "khairdinldh@gmail.com"
+        self.linkedin  = "linkedin.com/in/khaireddine-ladhari-77505b302"
 
     @property
     def focus_areas(self):
         return [
-            "🤖 AI & LLM Applications",
+            "🤖 LLM Applications & Function Calling",
+            "📚 RAG Systems · Embeddings · Vector Databases",
+            "🏥 Medical AI & Clinical NLP",
             "🌐 Full-Stack Web Development (MERN)",
-            "🏥 Medical AI & NLP",
-            "📚 RAG Systems & Vector Databases",
-            "⚙️  Function Calling & Agent Pipelines",
+            "🎨 UX Design",
         ]
-
-    def fun_fact(self):
-        return "Still in year 2 — already shipping real AI products"
 ```
 
 ---
@@ -43,19 +40,19 @@ class KhairEddineLadhari:
 ## 🚀 Projects
 
 ### 🏥 MediScan AI — Intelligent Medical Assistant
-> AI doctor that asks smart follow-up questions, fetches real medical data from Wikipedia, and generates professional PDF reports.
+> AI doctor that conducts full symptom consultations, fetches real disease data from Wikipedia, and generates professional PDF medical reports.
 
-- **Stack:** Python · Groq LLaMA3 · OpenAI Moderation · Wikipedia API · FPDF · Pandas
-- **Features:** Function calling · Token management · Retry logic · Content moderation · Patient history CSV
+- **Stack:** Python · Groq LLaMA3 · OpenAI Moderation API · Wikipedia REST API · FPDF · Pandas · tiktoken · Tenacity
+- **AI:** Function calling to trigger `get_disease_info()` · Smart follow-up question loop · Content moderation · Token management · Retry logic
 - 📂 [View Repository](https://github.com/khair-eddine-ladhari/medical-assisstant)
 
 ---
 
 ### 🚗 UberMind — Product Feedback Intelligence
-> RAG chatbot answering questions over 5,317 real Uber user reviews from December 2024 — with answers ChatGPT literally cannot give.
+> RAG chatbot over 5,317 real Uber reviews. Uses semantic search and metadata filtering to answer questions no general-purpose LLM can.
 
-- **Stack:** Python · ChromaDB · HuggingFace Embeddings · Groq llama-3.3-70b · Streamlit · Pandas
-- **Features:** Semantic search · Metadata filtering · Smart RAG · Admin insights dashboard
+- **Stack:** Python · ChromaDB · HuggingFace `all-MiniLM-L6-v2` Embeddings · Groq `llama-3.3-70b` · Streamlit · Pandas · tiktoken
+- **AI:** Persistent vector store · Semantic similarity search · Smart metadata filtering by score · Conversation memory · Auto-generated admin insight dashboard
 - 🌐 [Live Demo](https://khaireddineladhari-product-feedback-intelligence.hf.space) · 📂 [Repository](https://github.com/khair-eddine-ladhari/product-feedback-intelligence)
 
 ---
@@ -63,17 +60,17 @@ class KhairEddineLadhari:
 ### 🔐 Authy — Full-Stack Auth System
 > Production-ready MERN authentication platform with JWT, role-based access control, and a full admin dashboard.
 
-- **Stack:** React · Node.js · Express · MongoDB · JWT · Passport.js · Tailwind CSS
-- **Features:** RBAC · bcrypt hashing · Rate limiting · Helmet security · NoSQL injection protection
+- **Stack:** React 18 · Node.js · Express · MongoDB · JWT · Passport.js · Tailwind CSS · Vite
+- **Security:** bcrypt · Helmet · express-rate-limit · NoSQL injection sanitizer · CORS
 - 📂 [View Repository](https://github.com/khair-eddine-ladhari/authy)
 
 ---
 
 ### 🧬 Medical Text Structuring — AI NLP Pipeline
-> Automatically extracts structured medical information from raw clinical transcriptions using GPT-4o-mini function calling.
+> Extracts structured fields from raw clinical transcriptions using GPT-4o-mini function calling and maps treatments to ICD-10 codes.
 
 - **Stack:** Python · OpenAI GPT-4o-mini · Pandas · python-dotenv
-- **Features:** Function calling · ICD-10 code mapping · CSV export · Fallback handling
+- **AI:** Structured output via function calling · ICD-10 keyword mapping · CSV export pipeline
 - 📂 [View Repository](https://github.com/khair-eddine-ladhari/AI-Medical-Text-Structuring)
 
 ---
@@ -83,9 +80,11 @@ class KhairEddineLadhari:
 **AI / LLM**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F54703?style=flat&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq_LLaMA3-F54703?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace_Embeddings-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00897B?style=flat&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_Calling-0081CB?style=flat&logoColor=white)
 
 **Web & Backend**
 
@@ -102,15 +101,38 @@ class KhairEddineLadhari:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![UX Design](https://img.shields.io/badge/UX_Design-9C27B0?style=flat&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Provider |
+|---|---|
+| Introduction to Embeddings with the OpenAI API | DataCamp |
+| Developing AI Systems with the OpenAI API | DataCamp |
+| LLMOps Concepts | DataCamp |
+| Working with Hugging Face | DataCamp |
+| Prompt Engineering with the OpenAI API | DataCamp |
+| Working with the OpenAI API | DataCamp |
+| Python Toolbox | DataCamp |
+| Introduction to Python for Developers | DataCamp |
+| Data Types in Python | DataCamp |
+| Intermediate Python for Developers | DataCamp |
+| Introduction to Python | DataCamp |
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Khair Eddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khair-eddine-ladhari&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=khair-eddine-ladhari&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khair-eddine-ladhari&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khair-eddine-ladhari&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -118,8 +140,6 @@ class KhairEddineLadhari:
 
 <div align="center">
 
-*"Still learning. Already building."*
-
-**Khair Eddine Ladhari · Tunisia · 2nd Year CS**
+📬 **khairdinldh@gmail.com** · [LinkedIn](https://www.linkedin.com/in/khaireddine-ladhari-77505b302) · Tunisia 🇹🇳
 
 </div>
