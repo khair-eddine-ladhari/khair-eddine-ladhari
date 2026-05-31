@@ -2,7 +2,7 @@
 
 # Khair Eddine Ladhari
 
-**`AI Developer · Full-Stack Engineer · Tunisia`**
+**`AI Developer · Full-Stack Builder · Tunisia`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaireddine-ladhari-77505b302)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khairdinldh@gmail.com)
