@@ -84,11 +84,8 @@ class KhairEddineLadhari:
 | Working with Hugging Face | DataCamp |
 | Prompt Engineering with the OpenAI API | DataCamp |
 | Working with the OpenAI API | DataCamp |
-| Python Toolbox | DataCamp |
-| Introduction to Python for Developers | DataCamp |
-| Data Types in Python | DataCamp |
-| Intermediate Python for Developers | DataCamp |
-| Introduction to Python | DataCamp |
+
+|Google UX Design Professional Certificate — Coursera
 
 ---
 
