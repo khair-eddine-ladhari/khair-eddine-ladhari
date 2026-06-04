@@ -78,12 +78,14 @@ class KhairEddineLadhari:
 
 | Certificate | Provider |
 |---|---|
+|Vector Databases for Embeddings with Pinecone
 | Introduction to Embeddings with the OpenAI API | DataCamp |
 | Developing AI Systems with the OpenAI API | DataCamp |
 | LLMOps Concepts | DataCamp |
 | Working with Hugging Face | DataCamp |
 | Prompt Engineering with the OpenAI API | DataCamp |
 | Working with the OpenAI API | DataCamp |
+
 
 |Google UX Design Professional Certificate — Coursera
 
