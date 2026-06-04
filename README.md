@@ -43,6 +43,7 @@ class KhairEddineLadhari:
 
 **AI / LLM**
 
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)](https://github.com/khair-eddine-ladhari)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_LLaMA3-F54703?style=flat&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace_Embeddings-FFD21E?style=flat&logo=huggingface&logoColor=black)
