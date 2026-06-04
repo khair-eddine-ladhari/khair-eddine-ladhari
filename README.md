@@ -92,17 +92,7 @@ class KhairEddineLadhari:
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=khair-eddine-ladhari&theme=github-dark&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khair-eddine-ladhari&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
 
 ---
 
