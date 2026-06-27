@@ -48,6 +48,7 @@ class KhairEddineLadhari:
 ![Groq](https://img.shields.io/badge/Groq_LLaMA3-F54703?style=flat&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace_Embeddings-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4A154B?style=flat&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-00897B?style=flat&logoColor=white)
 ![Function Calling](https://img.shields.io/badge/Function_Calling-0081CB?style=flat&logoColor=white)
 
@@ -62,6 +63,7 @@ class KhairEddineLadhari:
 **Languages & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -73,26 +75,23 @@ class KhairEddineLadhari:
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![UX Design](https://img.shields.io/badge/UX_Design-9C27B0?style=flat&logoColor=white)
+
 ---
 
 ## 🏅 Certifications
 
 | Certificate | Provider |
 |---|---|
-|Vector Databases for Embeddings with Pinecone
+| Vector Databases for Embeddings with Pinecone | DataCamp |
 | Introduction to Embeddings with the OpenAI API | DataCamp |
 | Developing AI Systems with the OpenAI API | DataCamp |
 | LLMOps Concepts | DataCamp |
 | Working with Hugging Face | DataCamp |
 | Prompt Engineering with the OpenAI API | DataCamp |
 | Working with the OpenAI API | DataCamp |
-
-
-|Google UX Design Professional Certificate — Coursera
-
----
-
-
+| [Developing LLM Applications with LangChain](https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain) | DataCamp |
+| Associate AI Engineer for Developers | DataCamp |
+| Google UX Design Professional Certificate | Coursera |
 
 ---
 
