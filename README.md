@@ -68,7 +68,7 @@ Walmart via SerpApi.
 
 `Next.js` `Express` `FastAPI` `LangGraph` `CrewAI` `Groq` `Pinecone` `MongoDB`
 
-🔗 [agentdesk2.vercel.app](https://agentdesk2.vercel.app)
+
 
 ---
 
@@ -81,7 +81,7 @@ consequential decisions deterministic and auditable.
 
 `FastAPI` `CrewAI` `Gemini` `Express` `MongoDB` `Pillow`
 
-🔗 [product-detection-ten.vercel.app](https://product-detection-ten.vercel.app)
+
 
 ---
 
@@ -90,7 +90,7 @@ An AI-driven project applying clinical NLP to healthcare use cases, built as
 part of the same focus on making AI systems genuinely useful in real-world,
 high-stakes settings.
 
-*(repo link coming soon)*
+
 
 ---
 
