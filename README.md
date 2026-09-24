@@ -85,7 +85,7 @@ consequential decisions deterministic and auditable.
 
 ---
 
-### MediCare Ai® — Healthcare AI & Clinical NLP
+### [ —MediCare Ai® ®](https://github.com/khair-eddine-ladhari/hospital-agent-project)— Healthcare AI & Clinical NLP
 An AI-driven project applying clinical NLP to healthcare use cases, built as
 part of the same focus on making AI systems genuinely useful in real-world,
 high-stakes settings.
