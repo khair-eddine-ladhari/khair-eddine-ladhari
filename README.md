@@ -7,7 +7,7 @@
 
 `AI Developer · Full-Stack Builder · Tunisia 🇹🇳`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=framer&logoColor=white)](https://khaireddineladhari.framer.website/)
+[![Portfolio]](https://khaireddineladhari.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaireddine-ladhari-77505b302)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/khaireddineldh/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khairdinldh@gmail.com)
