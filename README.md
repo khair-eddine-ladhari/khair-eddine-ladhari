@@ -48,11 +48,12 @@ We build intelligent digital experiences that turn ideas into real-world product
 ## 💼 Experience
 
 ### AI Agents & LLM Engineering Intern — Designet
-`2-month internship · 2026`
+2-month internship · 2026
 
-Designed and built agentic AI systems during a 2-month internship focused on
-LLM-powered multi-agent applications — agent orchestration, RAG pipelines,
-and human-in-the-loop approval workflows.
+- Built [what you built, e.g. a multi-agent assistant] using LangGraph / CrewAI, with [number] specialised agents for [tasks].
+- Implemented RAG pipelines with [Pinecone / ChromaDB] to ground answers in [documents / data].
+- Added human-in-the-loop approval so AI-proposed actions run only after a person confirms them.
+- Worked with [Groq / OpenAI / Gemini] APIs and [FastAPI / Node.js] backends.
 
 ---
 
