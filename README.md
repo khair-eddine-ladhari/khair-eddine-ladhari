@@ -73,7 +73,7 @@ Walmart via SerpApi.
 
 ---
 
-### [DocChat®](https://github.com/khair-eddine-ladhari/product_detection) — AI & Document Intelligence
+### [DocChat®](https://github.com/khair-eddine-ladhari/learning-ai-assistant) — AI & Document Intelligence
 An e-commerce content-moderation pipeline where a multimodal AI agent
 cross-checks listing text against the actual image, catching sellers who hide
 restricted items (like weapons) behind misleading titles. Only code — never
