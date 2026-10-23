@@ -150,6 +150,7 @@ high-stakes settings.
 | Prompt Engineering with the OpenAI API | DataCamp |
 | Working with the OpenAI API | DataCamp |
 | [Developing LLM Applications with LangChain](https://app.datacamp.com/learn/courses/developing-llm-applications-with-langchain) | DataCamp |
+| [Image Processing in Python](https://app.datacamp.com/learn/courses/image-processing-in-python) | DataCamp |
 | Associate AI Engineer for Developers | DataCamp |
 | Google UX Design Professional Certificate | Coursera |
 
